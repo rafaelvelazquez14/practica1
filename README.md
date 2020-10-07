@@ -1,2 +1,0 @@
-# practica1
-Prueba 
